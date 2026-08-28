@@ -9,7 +9,7 @@
 
 ### About
 
-- 19-year-old developer with a focus on practical, production-ready tools
+- 21-year-old developer with a focus on practical, production-ready tools
 - Experience building Discord bots and Telegram bots
 - Development of desktop applications
 - Full-stack work across frontend and backend
